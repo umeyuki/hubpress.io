@@ -1,10 +1,10 @@
 {
   "meta": {
     "username": "umeyuki",
-    "repositoryName": "hubpress.io",
+    "repositoryName": "umeyuki.net/hubpress.io",
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "uno"
+    "name": "Casper"
   }
 }
