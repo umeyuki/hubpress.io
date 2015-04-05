@@ -1,10 +1,10 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "umeyuki",
+    "repositoryName": "hubpress.io",
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "uno"
   }
 }
